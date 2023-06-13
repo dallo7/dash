@@ -79,6 +79,8 @@ fig4.update_layout(
 
 app = dash.Dash(external_stylesheets=[dbc.themes.VAPOR], title='Dash App 1 Analytics')
 
+app._favicon = ("assets/fevicon.ico")
+
 server = app.server
 
 auth = dash_auth.BasicAuth(
