@@ -1,6 +1,6 @@
-dash~=2.9.3
-gunicorn==19.9.0
-pandas~=2.0.1
-
-daq~=0.4.2
-plotly~=5.14.1
+dash==2.9.3
+dash_auth==2.0.0
+dash_bootstrap_components==1.4.1
+dash_extensions==1.0.1
+pandas==1.3.5
+plotly==5.14.1
