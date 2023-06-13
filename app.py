@@ -79,6 +79,8 @@ fig4.update_layout(
 
 app = dash.Dash(external_stylesheets=[dbc.themes.VAPOR], title='Dash App 1 Analytics')
 
+server = app.server
+
 auth = dash_auth.BasicAuth(
     app,
     Dashauth.VALID_USERNAME_PASSWORD_PAIRS
