@@ -323,7 +323,7 @@ app.layout = dbc.Container([
         ], width=8)
     ])
 ], style={'marginTop': '10px', "color": "#3cf281", 'marginRight': '10px', 'marginBottom': '10px',
-          'marginLeft': '200px', "border": "2px LightGreen"})
+          'marginLeft': '20px', "border": "2px LightGreen"})
 
 
 def parse_contents(contents, filename):
