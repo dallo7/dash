@@ -1,0 +1,6 @@
+dash~=2.9.3
+gunicorn==19.9.0
+pandas~=2.0.1
+
+daq~=0.4.2
+plotly~=5.14.1
