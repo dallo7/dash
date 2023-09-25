@@ -77,7 +77,7 @@ fig4.update_layout(
     # font_color="#097733"
 )
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.VAPOR], title='Dash App 1 Analytics')
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.VAPOR], title='Integrate DAML on Legacy')
 
 server = app.server
 
