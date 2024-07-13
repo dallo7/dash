@@ -20,7 +20,7 @@ You can access the tool hosted on render.com  https://integrate-using-dash.onren
 Username: 'root'
 Password: 'root123'
 
-Also, drag and drop the ~"mtak.csv"~ file into the web service once it's up for better insights.
+Also, drag and drop the ~mtak.csv~ file into the web service once it's up for better insights.
 
 
 ## Table of Contents
