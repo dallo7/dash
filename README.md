@@ -17,8 +17,8 @@ This Dash application provides an interactive dashboard for analyzing and visual
 
 You can access the tool hosted on render.com  https://integrate-using-dash.onrender.com (when you click the link give it at least a minute for the service to restart)
 
-Username: 'root'
-Password: 'root123'
+Username: root
+Password: root123
 
 Also, drag and drop the ~mtak.csv~ file into the web service once it's up for better insights.
 
