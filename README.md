@@ -63,3 +63,39 @@ This Dash application provides an interactive dashboard for analyzing and visual
    ```bash
    git clone <repository-url>
    cd <repository-name>
+
+
+## Install Dependencies:
+
+    ```Bash
+    pip install -r requirements.txt
+    Use code with caution.                                       
+    ```                                       
+
+## Ensure the data file mtak.csv is in the project directory.
+
+    ```Bash
+    Run the App:
+    
+    Bash
+    python app.py
+    Use code with caution.
+    
+    The app should be accessible at http://127.0.0.1:5000/
+    ```                                                            
+  
+2. Usage
+ * Access the App: Open your web browser and navigate to the app's URL.
+ * Login: Enter your credentials (or use the defaults).
+   
+3. Explore the Dashboard:
+ * View the various charts and graphs to analyze financial data.
+ * Upload additional data using the upload component.
+ * Filter data using the dropdown menus.
+   
+4. Data
+ * mtak.csv: Sample dataset containing financial transaction information.
+ * Key columns: Agents, Markets, Counties, Sub-counties, Transamount, TransTime.
+
+Contributing
+Contributions are welcome! Please follow the standard GitHub fork and pull request workflow.
