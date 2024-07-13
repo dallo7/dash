@@ -35,13 +35,13 @@ Also, drag and drop the ~mtak.csv~ file into the web service once it's up for be
 
 ## Project Overview
 
-**Purpose:** The Integrate DAML on Legacy Systems dashboard demonstrates how DAML, a smart contract language, can be integrated with legacy financial systems. It enables users to gain insights into agent performance, market trends, regional transaction volumes, and more. 
+**Purpose:** The Integrate Analytics and Business Intelligence tool built using Dash.plotly on Legacy Systems. It enables users to gain insights into agent performance, market trends, regional transaction volumes, and more. 
 
 **Target Users:**
 
 - **Financial Analysts:**  To explore and understand transaction patterns, agent performance, and market dynamics.
 - **Business Decision-Makers:** To make informed decisions based on data-driven insights.
-- **Developers:** To learn how to integrate DAML with existing systems.
+- **Developers:** To learn how to integrate using Dash.Plotly to existing systems.
 
 ## Features
 
@@ -53,7 +53,6 @@ Also, drag and drop the ~mtak.csv~ file into the web service once it's up for be
     - Data Table: Upload and view financial data in a tabular format.
     - Filtering and Drill-down: Filter data by agents, markets, or counties to focus on specific aspects.
     - Animated Elements: Engaging Lottie animations enhance the visual appeal of the dashboard.
-- **DAML Integration:** Demonstrates how to leverage DAML smart contracts for managing financial assets and agreements within the context of legacy systems.
 
 ## Technologies
 
@@ -62,7 +61,6 @@ Also, drag and drop the ~mtak.csv~ file into the web service once it's up for be
 - **Plotly:** For interactive data visualizations.
 - **Pandas:** For data manipulation and analysis.
 - **dash-extensions:** For incorporating Lottie animations.
-- **DAML SDK:** For interacting with DAML smart contracts.
 - **Other:** base64, io, etc.
 
 ## Installation
