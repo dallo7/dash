@@ -63,7 +63,7 @@ This Dash application provides an interactive dashboard for analyzing and visual
    ```bash
    git clone <repository-url>
    cd <repository-name>
-
+   ```
 
 ## Install Dependencies:
 
@@ -77,7 +77,6 @@ This Dash application provides an interactive dashboard for analyzing and visual
     ```Bash
     Run the App:
     
-    Bash
     python app.py
     Use code with caution.
     
