@@ -67,21 +67,21 @@ This Dash application provides an interactive dashboard for analyzing and visual
 
  Install Dependencies:
 
-    ```Bash
+    Bash
     pip install -r requirements.txt
     Use code with caution.                                       
-    ```                                       
+                                          
 
  Ensure the data file mtak.csv is in the project directory.
 
-    ```Bash
+    Bash
     Run the App:
     
     python app.py
     Use code with caution.
     
     The app should be accessible at http://127.0.0.1:5000/
-    ```                                                            
+                                                               
   
 2. Usage
  * Access the App: Open your web browser and navigate to the app's URL.
