@@ -65,14 +65,14 @@ This Dash application provides an interactive dashboard for analyzing and visual
    cd <repository-name>
    ```
 
-## Install Dependencies:
+ Install Dependencies:
 
     ```Bash
     pip install -r requirements.txt
     Use code with caution.                                       
     ```                                       
 
-## Ensure the data file mtak.csv is in the project directory.
+ Ensure the data file mtak.csv is in the project directory.
 
     ```Bash
     Run the App:
