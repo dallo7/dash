@@ -12,7 +12,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
 
-This Dash application provides an interactive dashboard for analyzing and visualizing financial data related to agents, markets, and transactions across different regions. The focus is on integrating the Digital Asset Modeling Language (DAML) with existing legacy systems.
+This Dash application provides an interactive dashboard for analyzing and visualizing financial data related to agents, markets, and transactions across different regions. The focus is on integrating with existing legacy systems.
+
+
+You can access the tool hosted on render.com  https://integrate-using-dash.onrender.com (when you click the link give it at least a minute for the service to restart)
+
 
 ## Table of Contents
 
