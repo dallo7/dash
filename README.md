@@ -14,6 +14,9 @@
 
 This Dash application provides an interactive dashboard for analyzing and visualizing financial data related to agents, markets, and transactions across different regions. The focus is on integrating with existing legacy systems.
 
+[![Dental Diagnosis Demo Video](https://github.com/dallo7/dash/blob/274bb928efd43772ac0f98e9f475fe0ac8fe798f/mtak.gif)](https://www.youtube.com/watch?v=<video-id>)
+[![Dental Diagnosis Demo Video](https://github.com/dallo7/dash/blob/e529fdfb780d09d1d3979329c82ee54b9de19542/mtak.png)](https://www.youtube.com/watch?v=<video-id>)
+
 
 You can access the tool hosted on render.com  https://integrate-using-dash.onrender.com (when you click the link give it at least a minute for the service to restart)
 
