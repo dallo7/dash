@@ -331,8 +331,7 @@ app.layout = dbc.Container([
         'marginRight': 'auto',                     
         "border": "2px LightGreen"
     },
-    fluid=True,
-    className="d-flex flex-column align-items-center"
+    fluid=True
   )
 
 
