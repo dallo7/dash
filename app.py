@@ -322,15 +322,10 @@ app.layout = dbc.Container([
             )
         ], width=8)
     ])
-], style={
-        'marginTop': '10px',
-        "color": "#3cf281",
-        'marginRight': '10px',
-        'marginBottom': '10px',
-        'marginLeft': 'auto', 
-        'marginRight': 'auto',                     
-        "border": "2px LightGreen"
-    },
+], style={    
+        "width": "80%",     
+        "margin": "0 auto" 
+},
     fluid=True
   )
 
